@@ -70,7 +70,7 @@ O maior deles foi descoberto por um norte-americano e conta com 23.249.425 dígi
 
 
 <p align="center">
-  <img width="480" src="https://github.com/JonanthaW/Exatas/blob/main/NumerosPrimos/images/cicada.jpeg">
+  <img width="480" src="https://github.com/JonanthaW/Exatas/blob/main/NumerosPrimos/images/cicada.jpg">
 </p>
 
 A estratégia evolutiva utilizada pelas cigarras do gênero Magicicada faz uso de números primos. Esses insetos passam a maior parte de suas vidas como larvas no subsolo. Eles apenas se transformam em pupas e emergem de suas tocas após 7, 13 ou 17 anos, quando voam, se reproduzem e morrem após algumas semanas no máximo. Os biólogos teorizam que esses ciclos de reprodução de números primos evoluíram para evitar que os predadores se sincronizem com esses ciclos.
