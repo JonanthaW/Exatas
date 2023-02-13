@@ -29,7 +29,9 @@ O Teorema Fundamental da Aritmética garante que todo número natural maior que 
 
 ## Crivo de Erastóstenes
 
-![image of eratostenes](https://github.com/JonanthaW/Exatas/blob/main/NumerosPrimos/images/eratostenes.png "image of eratostenes")
+<p align="center">
+  <img src="https://github.com/JonanthaW/Exatas/blob/main/NumerosPrimos/images/eratostenes.png">
+</p>
 
 Eratóstenes (285 – 194 a.C.) foi um matemático grego que descobriu um esquema para encontrar os números primos que ficou conhecido como “Crivo de Eratóstenes”.
 Esse esquema é representado por uma tabela composta de números naturais. Na tabela a seguir, iremos cancelar os números que não são primos seguindo esta ordem:
@@ -49,8 +51,6 @@ Esse esquema é representado por uma tabela composta de números naturais. Na ta
 </p>
 
 *Os números destacados em amarelo são aqueles que só são divisíveis por 1 e por eles mesmos, isto é, não obedecem a nenhum dos critérios de divisibilidade que comentamos acima. Portanto, pelo “Crivo de Eratóstenes”, os números 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47,53, 59, 61, 67, 71, 73, 79, 83, 89 e 97 são os únicos números primos menores que 100.*
-
-**Hoje já se conhece uma grande quantidade de números primos, mas não se sabe qual é o maior número primo existente. Esse é um dos grandes enigmas matemáticos que farão rico o seu desvendador. Há um prêmio milionário para aquele que descobrir o maior dos números primos.**
 
 # Maior número primo conhecido atualmente (2023)
 
