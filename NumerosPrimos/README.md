@@ -1,20 +1,23 @@
 # Números primos
 
-Os Números Primos são números naturais maiores do que 1 que possuem somente dois divisores, ou seja, são divisíveis por 1 e por ele mesmo.
+![Anime image about prime numbers](https://github.com/JonanthaW/Exatas/blob/main/NumerosPrimos/images/anime-prime.webp "Anime opening - prime numbers")
+
+
+Os números primos são números naturais maiores do que 1 que possuem somente dois divisores, ou seja, são divisíveis por 1 e por ele mesmo.
 O Teorema Fundamental da Aritmética garante que todo número natural maior que 1 é primo, ou pode ser escrito como um produto de números primos.
 Antes de saber mais sobre o número primo, é importante relembrar algumas regras de divisibilidade, que ajudam na identificação de quais números não são primos.
 
-" *Divisibilidade por 2: todo número par é divisível por 2. Os números pares são aqueles terminados em 0, 2, 4, 6 e 8.
+* Divisibilidade por **2**: todo número par é divisível por 2. Os números pares são aqueles terminados em 0, 2, 4, 6 e 8.
 
-* Divisibilidade por 3: um número é divisível por 3 se a soma dos seus algarismos der um número divisível por 3.
+* Divisibilidade por **3**: um número é divisível por 3 se a soma dos seus algarismos der um número divisível por 3.
 
-* Divisibilidade por 4: um número é divisível por 4 se ele for divisível duas vezes por 2 ou, então, se seus dois últimos algarismos forem divisíveis por 4.
+* Divisibilidade por **4**: um número é divisível por 4 se ele for divisível duas vezes por 2 ou, então, se seus dois últimos algarismos forem divisíveis por 4.
 
-* Divisibilidade por 5: todo número terminado em 0 ou 5 é divisível por cinco.
+* Divisibilidade por **5**: todo número terminado em 0 ou 5 é divisível por cinco.
 
-* Divisibilidade por 6: se um número for par e também divisível por 3, será divisível por 6.
+* Divisibilidade por **6**: se um número for par e também divisível por 3, será divisível por 6.
 
-* Divisibilidade por 7: um número é divisível por 7 se a diferença entre o dobro do último algarismo e o restante do número resultar em um número múltiplo de 7."
+* Divisibilidade por **7**: um número é divisível por 7 se a diferença entre o dobro do último algarismo e o restante do número resultar em um número múltiplo de 7.
 
 Para saber se um número é primo ou não, é necessário analisar os seus possíveis divisores.
 
