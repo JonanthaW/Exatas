@@ -66,3 +66,12 @@ O maior deles foi descoberto por um norte-americano e conta com 23.249.425 dígi
 
 “Eu fiquei muito surpreso por ter sido descoberto tão rápido. Nós esperávamos que levasse mais tempo”, afirmou Chris Caldwell, professor de matemática da Universidade do Tennessee e dono de um site sobre os maiores números primos, em entrevista ao jornal britânico The Guardian. O número descoberto é chamado de primo de Mersenne, que consiste em um número primo resultado de uma potência de base 2 subtraído por 1. Os primos de Mersenne apresentam uma facilidade em se verificar se são primos ou não.
 
+# Números primos na biologia
+
+
+<p align="center">
+  <img width="480" src="https://github.com/JonanthaW/Exatas/blob/main/NumerosPrimos/images/cicada.jpeg">
+</p>
+
+A estratégia evolutiva utilizada pelas cigarras do gênero Magicicada faz uso de números primos. Esses insetos passam a maior parte de suas vidas como larvas no subsolo. Eles apenas se transformam em pupas e emergem de suas tocas após 7, 13 ou 17 anos, quando voam, se reproduzem e morrem após algumas semanas no máximo. Os biólogos teorizam que esses ciclos de reprodução de números primos evoluíram para evitar que os predadores se sincronizem com esses ciclos.
+
