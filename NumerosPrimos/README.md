@@ -61,7 +61,7 @@ Esse esquema é representado por uma tabela composta de números naturais. Na ta
 O maior deles foi descoberto por um norte-americano e conta com 23.249.425 dígitos. Para ser encurtado, o número recebeu o nome M77232917. O número foi “descoberto” pelo engenheiro eletricista Jonathan Pace, que mantem um computador voltado apenas para isso no estado norte-americano do Tennessee há 14 anos. Foram seis dias de computação ininterrupta, tendo o resultado verificado pelo projeto “Great Internet Mersenne Prime Search” (GIMPS), projeto iniciado em 1996, que tem como função buscar por numerais do tipo. A descoberta de Pace possui aproximadamente 1 milhão de dígitos a mais que o recorde anterior, achado no ano de 2016. 
 
 <p align="center">
-  <img src="https://github.com/JonanthaW/Exatas/blob/main/NumerosPrimos/images/GIMPS.png">
+  <img width="480" src="https://github.com/JonanthaW/Exatas/blob/main/NumerosPrimos/images/GIMPS.png">
 </p>
 
 “Eu fiquei muito surpreso por ter sido descoberto tão rápido. Nós esperávamos que levasse mais tempo”, afirmou Chris Caldwell, professor de matemática da Universidade do Tennessee e dono de um site sobre os maiores números primos, em entrevista ao jornal britânico The Guardian. O número descoberto é chamado de primo de Mersenne, que consiste em um número primo resultado de uma potência de base 2 subtraído por 1. Os primos de Mersenne apresentam uma facilidade em se verificar se são primos ou não.
