@@ -27,6 +27,8 @@ b) 8 não é um número primo, pois, além de ser divisível por 1 e por 8, tamb
 
 ## Crivo de Erastóstenes
 
+![image of eratostenes](https://github.com/JonanthaW/Exatas/blob/main/NumerosPrimos/images/eratostenes.png "image of eratostenes")
+
 Eratóstenes (285 – 194 a.C.) foi um matemático grego que descobriu um esquema para encontrar os números primos que ficou conhecido como “Crivo de Eratóstenes”.
 Esse esquema é representado por uma tabela composta de números naturais. Assim, o método utilizado é primeiramente encontrar o primeiro número primo da tabela, marcar todos os múltiplos desse número, e repetir essa operação até o último.
 
