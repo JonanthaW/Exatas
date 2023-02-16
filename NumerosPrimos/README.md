@@ -91,3 +91,18 @@ for num in range (low, high + 1):
            print(num)
 print("Script fianlizado.")
 ```
+
+
+
+
+
+### Referências
+
+* https://escolakids.uol.com.br/matematica/numeros-primos.htm [WEB PAGE]
+* https://www.todamateria.com.br/numeros-primos/ [WEB PAGE]
+* https://pt.wikipedia.org/wiki/N%C3%BAmero_primo [WEB PAGE]
+* https://www.techtarget.com/whatis/definition/prime-number [WEB PAGE]
+* https://en.wikipedia.org/wiki/Prime_number [WEB PAGE]
+* https://www.edureka.co/blog/python-program-prime-number/ [WEB PAGE]
+* https://www.programiz.com/python-programming/examples/prime-number [WEB PAGE]
+* https://www.youtube.com/watch?v=6pgeQtwC5e0 [VIDEO]
