@@ -6,7 +6,7 @@ Interesse é algo que traz vantagem, que se pode considerar útil ou relevante. 
   <img src="https://github.com/JonanthaW/Exatas/blob/main/images/science.gif">
 </p>
 
-
+Neste repositório, você encontra alguns tópicos legais para se explorar e, talvez, descobrir um novo mundo de idéias e oportunidades.
 
 ## Tópicos
 * [Números primos](https://github.com/JonanthaW/Exatas/tree/main/NumerosPrimos)
