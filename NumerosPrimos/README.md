@@ -93,7 +93,9 @@ print("Script fianlizado.")
 ```
 
 
+## Projetos legais usando números primos
 
+* PRIMIFY (Transforma uma imagem em art ASCII usando números primos) - https://github.com/LeviBorodenko/primify
 
 
 ### Referências
