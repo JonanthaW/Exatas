@@ -96,6 +96,7 @@ print("Script fianlizado.")
 ## Projetos legais usando números primos
 
 * PRIMIFY (Transforma uma imagem em art ASCII usando números primos) - https://github.com/LeviBorodenko/primify
+* isthisprime.com (Um simples site que te diz se um número é primo ou não) - [https://isthisprime.com/about.html](https://github.com/christianp/isthisprime.com)
 
 
 ### Referências
