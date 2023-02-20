@@ -8,4 +8,4 @@ Interesse é algo que traz vantagem, que se pode considerar útil ou relevante. 
 
 ## Tópicos
 * [Números primos](https://github.com/JonanthaW/Exatas/tree/main/NumerosPrimos)
-* [Sleep sort] (https://github.com/JonanthaW/Exatas/tree/main/SleepSort)
+* [Sleep sort](https://github.com/JonanthaW/Exatas/tree/main/SleepSort)
