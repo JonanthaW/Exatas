@@ -129,6 +129,9 @@ namespace PrimeNumbers {
 
 * PRIMIFY (Transforma uma imagem em art ASCII usando números primos) - https://github.com/LeviBorodenko/primify
 * isthisprime.com (Um simples site que te diz se um número é primo ou não) - [https://isthisprime.com/about.html](https://github.com/christianp/isthisprime.com)
+* PrimePages (Primerios 50,000 primos) - [https://primes.utm.edu/](https://primes.utm.edu/lists/small/millions/)
+* Prime numbers API (Possível maior database de números primos) - http://prime-numbers-api.com/
+* Zone.EDU (Metodo mais rápido para encontrar números primos) - https://zone.edu.vn/what-is-the-fastest-way-to-get-prime-numbers-in-python
 
 
 ### Referências
