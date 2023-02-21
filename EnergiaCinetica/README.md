@@ -11,3 +11,15 @@ Energia ocorre de várias formas, incluindo energia química, energia térmica, 
 
 * O termo cinética teve sua origem na palavra grega *κίνησις kinesis*, cujo significado é movimento.
 * A unidade padrão da energia cinética é o joule. 
+
+# Fórmula: Energia cinética
+
+Para calcular a energia cinética de um objeto com massa “m” e velocidade “v” devemos aplicar a fórmula Ec = mv²/2, onde:
+
+* Ec – energia cinética em joules;
+* m – massa em kg;
+* v – velocidade em m/s.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JonanthaW/Exatas/main/EnergiaCinetica/images/kinetic.jpeg"/>
+</p>
