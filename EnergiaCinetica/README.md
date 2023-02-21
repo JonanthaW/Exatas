@@ -21,5 +21,5 @@ Para calcular a energia cinética de um objeto com massa “m” e velocidade �
 * v – velocidade em m/s.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JonanthaW/Exatas/main/EnergiaCinetica/images/kinetic.jpeg"/>
+  <img src="https://raw.githubusercontent.com/JonanthaW/Exatas/main/EnergiaCinetica/images/kinetic.jpg"/>
 </p>
