@@ -1,11 +1,10 @@
-# Interesses científicos
+# Energia cinética
 
-Interesse é algo que traz vantagem, que se pode considerar útil ou relevante. Quando se fala em priorizar os interesses é porque deve-se colocar em primeiro lugar aquilo que mais interessa e seja mais vantajoso, dependendo da perspectiva escolhida. Quando várias pessoas cooperaram pelo mesmo objetivo, há uma harmonia de interesses. Já a ciência é um conjunto de técnicas e de métodos que permitem organizar o conhecimento sobre a estrutura de fatos objetivos e acessíveis a muitos observadores. 
+Energia cinética é a forma de energia que um corpo qualquer possui em razão de seu movimento, em outras palavras, é a forma de energia associada à velocidade de um corpo. Quando aplicamos uma força resultante não nula sobre algum corpo, estamos realizando trabalho sobre ele, desse modo, ele adquire energia cinética na medida em que sua velocidade aumenta. A energia cinética não depende exclusivamente da velocidade de um corpo mas também de sua massa.
 
-<p align="center">
-  <img src="https://github.com/JonanthaW/Exatas/blob/main/images/science.gif">
-</p>
+Energia ocorre de várias formas, incluindo energia química, energia térmica, radiação eletromagnética, energia gravitacional, energia elétrica, energia elástica, energia nuclear, e energia de descanso. Estas podem ser categorizadas em duas classes principais: energia potencial e energia cinética. Energia cinética é a energia de movimento de um objeto. Energia cinética pode ser transferida entre objetos e transformada em outros tipos de energia. 
 
-## Tópicos
-* [Números primos](https://github.com/JonanthaW/Exatas/tree/main/NumerosPrimos)
-* [Sleep sort](https://github.com/JonanthaW/Exatas/tree/main/SleepSort)
+**A energia cinética pode ser melhor compreendida por exemplos que demonstram como ela é transformada de uma para outras formas de energia. Por exemplo, um ciclista usa energia química fornecida por alimentos para acelerar uma bicicleta a uma velocidade arbitrária. Em uma superfície nivelada, esta velocidade pode ser mantida sem trabalho adicional, excepto para superar a resistência do ar e fricção. A energia química foi convertida em energia cinética, a energia do movimento, mas o processo não é completamente eficiente e o ciclista produz calor.**
+
+* O termo cinética teve sua origem na palavra grega *κίνησις kinesis*, cujo significado é movimento.
+* A unidade padrão da energia cinética é o joule. 
