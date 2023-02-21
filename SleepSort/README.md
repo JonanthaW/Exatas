@@ -1,6 +1,6 @@
 # whats-sleepSort
 
-![Sleep sort](https://github.com/JonanthaW/whats-sleepSort/blob/main/sleepSort.png "Sleep sort header")
+![Sleep sort](https://github.com/JonanthaW/Exatas/blob/main/SleepSort/images/sleepSort.png "Sleep sort header")
 
 [![Profile Linkedin](https://img.shields.io/badge/Profile-Linkedin-blue)](https://pt.linkedin.com/pulse/voc%C3%AA-j%C3%A1-ouviu-falar-em-sleep-sort-jonantha-willian) ![Github](https://img.shields.io/badge/Status-Complete-green)
 
@@ -27,7 +27,7 @@ Utilizamos a função *"sleep"* para adormecer uma thread até certa condição 
 A complexidade do Sleep Sort é bem contraditória. Alguns dizem ser  *"O(n * log(n))"*, outros dizem ser *"O(max(input)+n)"*, e tem quem diga ser *"O(NlogN + max(input))"*.
 
 <div align="center">
-   <img src="https://github.com/JonanthaW/whats-sleepSort/blob/main/example.gif"/>
+   <img src="https://github.com/JonanthaW/Exatas/blob/main/SleepSort/images/example.gif"/>
 </div>
 
 **Mas nem tudo é sombra e água fresca.** O tanto de problemas que tem nesse treco não dá pra contar nos dedos.
@@ -75,7 +75,7 @@ sleepSort(9, 16, 5, 71, 33);
 (Se você quiser ver como ficaria na sua linguagem de programação favorita, é so acessar este site aqui: [Sleep Sort em outras linguagens](https://rosettacode.org/wiki/Sorting_algorithms/Sleep_sort)).
 
 <div align="center">
-   <img src="https://github.com/JonanthaW/whats-sleepSort/blob/main/cont.jpeg"/ width="600px">
+   <img src="https://github.com/JonanthaW/Exatas/blob/main/SleepSort/images/cont.jpeg"/ width="600px">
 </div>
 *E isso tudinho acontecendo láaaa no background do sistema. Tudinho feito pelo OS em suas entranhas eletrônicas.*
 

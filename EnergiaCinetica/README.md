@@ -23,3 +23,40 @@ Para calcular a energia cinética de um objeto com massa “m” e velocidade �
 <p align="center">
   <img src="https://raw.githubusercontent.com/JonanthaW/Exatas/main/EnergiaCinetica/images/kinetic.jpg"/>
 </p>
+
+
+* A energia cinética não é um vetor. Assim, uma bola de tênis lançada para a direita com velocidade de 5 m/s tem exatamente a mesma energia cinética que uma bola de tênis lançada para baixo com velocidade de 5 m/s.
+* A energia cinética deve ser sempre zero ou um valor positivo. Embora a velocidade possa ter um valor positivo ou negativo, a velocidade ao quadrado é sempre positiva.
+* A energia cinética depende da velocidade do objeto ao quadrado. Isso significa que quando a velocidade de um objeto dobra, sua energia cinética quadruplica. Um carro viajando a 60 mph tem quatro vezes a energia cinética de um carro idêntico viajando a 30 mph e, portanto, o potencial para quatro vezes mais mortes e destruição em caso de colisão.
+* Quando um objeto colide com outro objeto, ele transfere sua energia cinética para o outro objeto.
+
+Os moinhos de vento são uma excelente ilustração das aplicações da energia cinética.
+O vento que atinge as pás do moinho de vento faz com que elas girem, resultando na geração de energia. O movimento das moléculas de ar desenvolve energia cinética que gira a lâmina e se transforma em energia mecânica.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JonanthaW/Exatas/main/EnergiaCinetica/images/windmill.gif"/>
+</p>
+
+# Exemplos de problemas
+
+1. *Um carro e uma bicicleta estão viajando com a mesma velocidade, qual tem mais energia cinética?*
+* O carro já que tem mais massa.
+
+2. *Uma bola pesa cerca de 1 kg e se desloca a 20 metros por segundo, qual é a sua energia cinética?*
+* Ec = mv²/2
+* Ec = 1 * (20)² / 2
+* Ec = 200J
+
+# Programando: Energia cinética
+
+*Python:*
+```
+massa = float(input())
+velocidade = float(input())
+def energia_cinetica(massa, velocidade):
+    Ec = (1/2) * massa * (velocidade ** 2)
+    print('Energia cinética em Joules: ', Ec)
+    return Ec
+
+energia_cinetica(massa, velocidade)
+```
