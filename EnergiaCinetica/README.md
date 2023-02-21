@@ -1,4 +1,7 @@
 # Energia cinética
+<p align="center">
+  <img src="https://github.com/JonanthaW/Exatas/blob/main/EnergiaCinetica/images/cradle.gif"/>
+</p>
 
 Energia cinética é a forma de energia que um corpo qualquer possui em razão de seu movimento, em outras palavras, é a forma de energia associada à velocidade de um corpo. Quando aplicamos uma força resultante não nula sobre algum corpo, estamos realizando trabalho sobre ele, desse modo, ele adquire energia cinética na medida em que sua velocidade aumenta. A energia cinética não depende exclusivamente da velocidade de um corpo mas também de sua massa.
 
