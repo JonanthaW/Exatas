@@ -39,13 +39,24 @@ O vento que atinge as pás do moinho de vento faz com que elas girem, resultando
 
 # Exemplos de problemas
 
-Um carro e uma bicicleta estão viajando com a mesma velocidade, qual tem mais energia cinética?
-O carro faz porque tem mais massa.
+1. *Um carro e uma bicicleta estão viajando com a mesma velocidade, qual tem mais energia cinética?*
+* O carro já que tem mais massa.
 
-Uma bola pesa cerca de 1 kg e se desloca a 20 metros por segundo, qual é a sua energia cinética?
-Ec = mv²/2
-Ec = 1 * (20)² / 2
-Ec = 200J
+2. *Uma bola pesa cerca de 1 kg e se desloca a 20 metros por segundo, qual é a sua energia cinética?*
+* Ec = mv²/2
+* Ec = 1 * (20)² / 2
+* Ec = 200J
 
 # Programando: Energia cinética
 
+*Python:*
+```
+massa = float(input())
+velocidade = float(input())
+def energia_cinetica(massa, velocidade):
+    Ec = (1/2) * massa * (velocidade ** 2)
+    print('Energia cinética em Joules: ', Ec)
+    return Ec
+
+energia_cinetica(massa, velocidade)
+```
