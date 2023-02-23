@@ -30,13 +30,6 @@ Para calcular a energia cinética de um objeto com massa “m” e velocidade �
 * A energia cinética depende da velocidade do objeto ao quadrado. Isso significa que quando a velocidade de um objeto dobra, sua energia cinética quadruplica. Um carro viajando a 60 mph tem quatro vezes a energia cinética de um carro idêntico viajando a 30 mph e, portanto, o potencial para quatro vezes mais mortes e destruição em caso de colisão.
 * Quando um objeto colide com outro objeto, ele transfere sua energia cinética para o outro objeto.
 
-Os moinhos de vento são uma excelente ilustração das aplicações da energia cinética.
-O vento que atinge as pás do moinho de vento faz com que elas girem, resultando na geração de energia. O movimento das moléculas de ar desenvolve energia cinética que gira a lâmina e se transforma em energia mecânica.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JonanthaW/Exatas/main/EnergiaCinetica/images/windmill.gif"/>
-</p>
-
 # Exemplos de problemas
 
 1. *Um carro e uma bicicleta estão viajando com a mesma velocidade, qual tem mais energia cinética?*
@@ -60,17 +53,25 @@ Uma aplicação comum desse princípio é o uso de um dínamo, que é um disposi
   <img src="https://raw.githubusercontent.com/JonanthaW/Exatas/main/EnergiaCinetica/images/dynamo.jpg"/>
 </p>
 
-Em Usinas Hidrelétricas (hidro=água), a água do rio faz a turbina girar, transformando a energia cinética em eletricidade.
+Em Usinas Hidrelétricas, a água do rio faz a turbina girar, transformando a energia cinética em eletricidade.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JonanthaW/Exatas/main/EnergiaCinetica/images/hidreletrica.png"/>
 </p>
 
-Na Usinas Eólicas, o vento empurra as pás do aerogerador (que parece um cata-vento). As pás giram e o gerador transforma a energia cinética em eletricidade. 
+Os moinhos de vento são uma excelente ilustração das aplicações da energia cinética.
+O vento que atinge as pás do moinho de vento faz com que elas girem, resultando na geração de energia. O movimento das moléculas de ar desenvolve energia cinética que gira a lâmina e se transforma em energia mecânica.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JonanthaW/Exatas/main/EnergiaCinetica/images/windmill.gif"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JonanthaW/Exatas/main/EnergiaCinetica/images/eolica.png"/>
 </p>
+
+
+
 
 # Programando: Energia cinética
 
@@ -95,3 +96,4 @@ energia_cinetica(massa, velocidade)
 * https://mundoeducacao.uol.com.br/fisica/energia-cinetica.htm [WEB PAGE]
 * https://lambdageeks.com/kinetic-energy-to-electrical-energy/ [WEB PAGE]
 * https://www.epe.gov.br/pt/abcdenergia/formas-de-energia [WEB PAGE]
+* https://www.youtube.com/watch?v=QqaQFyutNKk [VIDEO]
