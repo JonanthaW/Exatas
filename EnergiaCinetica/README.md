@@ -14,7 +14,7 @@ Energia ocorre de várias formas, incluindo energia química, energia térmica, 
 
 # Fórmula: Energia cinética
 
-Para calcular a energia cinética de um objeto com massa “m” e velocidade “v” devemos aplicar a fórmula Ec = mv²/2, onde:
+Para calcular a energia cinética de um objeto devemos aplicar a fórmula Ec = mv²/2, onde:
 
 * Ec – energia cinética em joules;
 * m – massa em kg;
