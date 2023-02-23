@@ -47,6 +47,31 @@ O vento que atinge as pás do moinho de vento faz com que elas girem, resultando
 * Ec = 1 * (20)² / 2
 * Ec = 200J
 
+
+## Transformando energia cinética em energia elétrica
+
+A lei da conservação da energia afirma que a energia não pode ser criada nem destruída - apenas convertida de uma forma de energia para outra. Isso significa que um sistema sempre tem a mesma quantidade de energia, a menos que seja adicionado de fora.
+
+A energia cinética pode ser convertida em eletricidade através de um processo conhecido como indução eletromagnética. Esse processo envolve o movimento de um campo magnético próximo a um material condutor, como um fio, que induz uma corrente elétrica a fluir no fio.
+
+Uma aplicação comum desse princípio é o uso de um dínamo, que é um dispositivo que converte a energia mecânica de um eixo giratório em energia elétrica. O dínamo contém um ímã rotativo que se move próximo a uma bobina estacionária de fio, induzindo uma corrente elétrica a fluir no fio. A energia elétrica resultante pode ser usada para alimentar luzes, motores ou outros dispositivos elétricos.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JonanthaW/Exatas/main/EnergiaCinetica/images/dynamo.jpg"/>
+</p>
+
+Em Usinas Hidrelétricas (hidro=água), a água do rio faz a turbina girar, transformando a energia cinética em eletricidade.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JonanthaW/Exatas/main/EnergiaCinetica/images/hidreletrica.png"/>
+</p>
+
+Na Usinas Eólicas, o vento empurra as pás do aerogerador (que parece um cata-vento). As pás giram e o gerador transforma a energia cinética em eletricidade. 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JonanthaW/Exatas/main/EnergiaCinetica/images/eolica.png"/>
+</p>
+
 # Programando: Energia cinética
 
 *Python:*
@@ -68,3 +93,5 @@ energia_cinetica(massa, velocidade)
 * https://www.softschools.com/facts/energy/kinetic_energy_facts/394/ [WEB PAGE]
 * https://brasilescola.uol.com.br/fisica/energia-cinetica.htm [WEB PAGE]
 * https://mundoeducacao.uol.com.br/fisica/energia-cinetica.htm [WEB PAGE]
+* https://lambdageeks.com/kinetic-energy-to-electrical-energy/ [WEB PAGE]
+* https://www.epe.gov.br/pt/abcdenergia/formas-de-energia [WEB PAGE]
