@@ -61,7 +61,7 @@ def energia_cinetica(massa, velocidade):
 energia_cinetica(massa, velocidade)
 ```
 
-#Referencias:
+# Referencias:
 
 * https://en.wikipedia.org/wiki/Kinetic_energy [WEB PAGE]
 * https://www.google.com/search?client=firefox-b-d&q=kinetic+energy [WEB PAGE]
