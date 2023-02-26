@@ -63,10 +63,6 @@ Os moinhos de vento são uma excelente ilustração das aplicações da energia 
 O vento que atinge as pás do moinho de vento faz com que elas girem, resultando na geração de energia. O movimento das moléculas de ar desenvolve energia cinética que gira a lâmina e se transforma em energia mecânica.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JonanthaW/Exatas/main/EnergiaCinetica/images/windmill.gif"/>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/JonanthaW/Exatas/main/EnergiaCinetica/images/eolica.png"/>
 </p>
 
