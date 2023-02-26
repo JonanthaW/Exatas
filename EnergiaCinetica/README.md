@@ -83,15 +83,11 @@ def energia_cinetica(massa, velocidade):
 energia_cinetica(massa, velocidade)
 ```
 
-<<<<<<< HEAD
 <p align="center">
   <img src="https://raw.githubusercontent.com/JonanthaW/Exatas/main/EnergiaCinetica/images/carSimulation.gif"/>
 </p>
 
 # Referencias:
-=======
-# Referências:
->>>>>>> af2a004265fcf40a17b05621d557e054e0e6de91
 
 * https://en.wikipedia.org/wiki/Kinetic_energy [WEB PAGE]
 * https://www.google.com/search?client=firefox-b-d&q=kinetic+energy [WEB PAGE]
