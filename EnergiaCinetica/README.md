@@ -83,9 +83,31 @@ def energia_cinetica(massa, velocidade):
 energia_cinetica(massa, velocidade)
 ```
 
+*Python:*
+```
+def EnergiaCinetica(M, V):
+    EnergiaCinetica = 0.5 * M * V * V
+    return EnergiaCinetica
+  
+if __name__ == "__main__":
+    M = 5.5
+    H = 23.5
+    V = 10.5
+
+    print("Energia cinética = ", EnergiaCinetica(M, V))
+````
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/JonanthaW/Exatas/main/EnergiaCinetica/images/carSimulation.gif"/>
 </p>
+
+
+### Quanto Joules são necessários para matar um humano?
+
+Objetos que possam parecer inofensivos podem causar a morte de uma pessoa, se caírem de uma certa altura. Vamos tomar como primeiro exemplo uma moeda de R$0,50 (a nossa moeda mais pesada), se jogada em uma altura de **160** metros ela atingiria uma velocidade de **94,3 km/h**, gerando **energia de 2,3 joules** em seu impacto, o que causaria apenas um machucado em seu impacto já que para perfurar o crânio de uma pessoa seria necessário uma força de **45 joules**. 
+Agora vamos partir para outro exemplo, uma cabeça de alho. Se tomarmos como base a mesma altura em que usamos para a moeda, seria obtida uma velocidade de **142 km/h**, que produziria uma energia de **46,8 joules**, ou seja, conseguiria perfurar o crânio de uma pessoa, levando-a à morte.
+
+Para nível de comparação, uma carabina de chumbinho possui em torno de 15 a 20 joules de energia. Já uma arma de fogo, uma pistola calibre 9mm, por exemplo, possui uma energia de mais de 500 joules. Uma arma de airsoft tem uma energia média de 1 a 2,5 joules.
 
 # Referencias:
 
@@ -97,3 +119,6 @@ energia_cinetica(massa, velocidade)
 * https://lambdageeks.com/kinetic-energy-to-electrical-energy/ [WEB PAGE]
 * https://www.epe.gov.br/pt/abcdenergia/formas-de-energia [WEB PAGE]
 * https://www.youtube.com/watch?v=QqaQFyutNKk [VIDEO]
+* https://www.geeksforgeeks.org/program-to-calculate-kinetic-energy-and-potential-energy/ [WEB PAGE]
+* https://www.seucondominio.com.br/noticias/pequenos-objetos-atirados-pela-janela-podem-matar-seu-condominio [WEB PAGE]
+* https://blog.actionadventure.com.br/2021/12/airsoft-quantos-metros-alcanca-um-tiro/ [WEB PAGE]
