@@ -109,6 +109,11 @@ Agora vamos partir para outro exemplo, uma cabeça de alho. Se tomarmos como bas
 
 Para nível de comparação, uma carabina de chumbinho possui em torno de 15 a 20 joules de energia. Já uma arma de fogo, uma pistola calibre 9mm, por exemplo, possui uma energia de mais de 500 joules. Uma arma de airsoft tem uma energia média de 1 a 2,5 joules.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JonanthaW/Exatas/main/EnergiaCinetica/images/DROPS.png"/>
+</p>
+
+
 # Referencias:
 
 * https://en.wikipedia.org/wiki/Kinetic_energy [WEB PAGE]
