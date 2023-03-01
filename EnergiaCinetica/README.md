@@ -56,14 +56,14 @@ Uma aplicação comum desse princípio é o uso de um dínamo, que é um disposi
 Outro exemplo são nas usinas hidrelétricas, a água do rio faz a turbina girar, transformando a energia cinética em eletricidade.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JonanthaW/Exatas/main/EnergiaCinetica/images/hidreletrica.png"/>
+  <img width="600" src="https://raw.githubusercontent.com/JonanthaW/Exatas/main/EnergiaCinetica/images/hidreletrica.png"/>
 </p>
 
 Os moinhos de vento são uma excelente ilustração das aplicações da energia cinética.
 O vento que atinge as pás do moinho de vento faz com que elas girem, resultando na geração de energia. O movimento das moléculas de ar desenvolve energia cinética que gira a lâmina e se transforma em energia mecânica.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JonanthaW/Exatas/main/EnergiaCinetica/images/eolica.png"/>
+  <img width="600" src="https://raw.githubusercontent.com/JonanthaW/Exatas/main/EnergiaCinetica/images/eolica.png"/>
 </p>
 
 
