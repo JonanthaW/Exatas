@@ -1,8 +1,10 @@
-massa = float(input())
-velocidade = float(input())
-def energia_cinetica(massa, velocidade):
-    Ec = (1/2) * massa * (velocidade ** 2)
-    print('Energia cinética em Joules: ', Ec)
-    return Ec
+def EnergiaCinetica(M, V):
+    EnergiaCinetica = 0.5 * M * V * V
+    return EnergiaCinetica
+  
+if __name__ == "__main__":
+    M = 5.5
+    H = 23.5
+    V = 10.5
 
-energia_cinetica(massa, velocidade)
+    print("Energia cinética = ", EnergiaCinetica(M, V))
