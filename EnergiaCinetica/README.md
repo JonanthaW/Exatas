@@ -123,8 +123,9 @@ Para nível de comparação, uma carabina de chumbinho possui em torno de 15 a 2
 ### Simulando energia em ação utilizando a Unity:
 
 ``` 
-Para uma melhor visualização criei uma pequena simulação utilizando as fisicas da Unity. 
-(Os arquivos estão disponíveis no diretório padrão, usem a vontade)
+Para uma melhor visualização criei uma pequena simulação utilizando as fisicas da Unity.
+Unity versão: 2021.3.23f1.
+(Os arquivos estão disponíveis no diretório padrão, usem a vontade).
 ```
 
 Nesta simulação do Unity, um canhão acaba de ser disparado e estamos calculando sua energia cinética. Podemos ver a bala de canhão voando pelo ar, À medida que aterra à distância, obtemos uma leitura da sua energia cinética (E outros fatores) - uma exibição impressionante da física em ação. A precisão da simulação nos permite entender melhor as forças em ação quando um canhão é disparado, e os cálculos fornecem informações valiosas sobre como os objetos se movem pelo mundo.
