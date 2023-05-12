@@ -145,7 +145,12 @@ Precisamente, nós temos os seguintes dados:
 * Altura máxima: Calcula a altura que a bola do canhão irá subir em **metros** antes da gravidade a puxar pra baixo. A fórmula utilizada é **hmax = V² * sin(α * pi / 180)² / (2 * g)**.
 * Tempo de voo: Quanto tempo a bala de canhão vai ficar no ar antes de tocar no chão? Aqui está. A fórmula utilizada é t = **2 × V × sin(α) / 9.8**. Medida em **segundos**.
 
-O canhão pode ser disparado ao pressionar o botão esquerdo do mouse. Toda ação é controlado pela funcão "AddForce(Vector2 force, ForceMode2D mode = ForceMode2D.Force)". A força é especificada com dois componentes separados nas direções X e Y (não há direção Z na física 2D). O objeto será acelerado pela força de acordo com a lei força = massa x aceleração - quanto maior a massa, maior a força necessária para acelerar a uma determinada velocidade. Adicionar um componente Rigidbody a um objeto colocará seu movimento sob o controle do mecanismo de física do Unity. **Por padrão a gravidade da unity é 9.81 (1 no SerializeField)**. 
+O canhão pode ser disparado ao pressionar o botão esquerdo do mouse. Toda ação é controlado pela funcão "AddForce(Vector2 force, ForceMode2D mode = ForceMode2D.Force)". A força é especificada com dois componentes separados nas direções X e Y (não há direção Z na física 2D). O objeto será acelerado pela força de acordo com a lei força = massa x aceleração - quanto maior a massa, maior a força necessária para acelerar a uma determinada velocidade. Adicionar um componente Rigidbody a um objeto colocará seu movimento sob o controle do mecanismo de física do Unity. **Por padrão a gravidade da unity é 9.81 (1 no SerializeField)**.  
+A resistência do ar é mínima (AngularDrag = 0.05).
+```
+Outros fatores podem ser calculados como a força elástica, as diferenças no tamanho e na forma da bola de canhão, etc..
+Além disso, a simulação é baseada em dois vetores (2D), o que significa que não leva em conta os efeitos da gravidade na direção Z (3D).
+```
 
 # Referencias:
 
