@@ -122,17 +122,33 @@ Para nível de comparação, uma carabina de chumbinho possui em torno de 15 a 2
 
 ### Simulando energia em ação utilizando a Unity:
 
-``` Para uma melhor visualização criei uma pequena simulação utilizando as fisicas da Unity. (Os arquivos estão disponíveis no diretório padrão, usem a vontade)```
+``` 
+Para uma melhor visualização criei uma pequena simulação utilizando as fisicas da Unity. 
+(Os arquivos estão disponíveis no diretório padrão, usem a vontade)
+```
+
 Nesta simulação do Unity, um canhão acaba de ser disparado e estamos calculando sua energia cinética. Podemos ver a bala de canhão voando pelo ar, À medida que aterra à distância, obtemos uma leitura da sua energia cinética (E outros fatores) - uma exibição impressionante da física em ação. A precisão da simulação nos permite entender melhor as forças em ação quando um canhão é disparado, e os cálculos fornecem informações valiosas sobre como os objetos se movem pelo mundo.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JonanthaW/Exatas/main/EnergiaCinetica/images/simulation.png"/>
 </p>
 
+Precisamente, nós temos os seguintes dados:
+
+* Ângulo: O ângulo é calculado baseando-se na posição do cano do canhão. Os valores máximos e mínimos podem ser definidos no próprio script ou por meio do SerializeField. Sendo controlado pelo mouse, o **GameObject firePoint** define onde a mira será apontada. Medida em **Graus**.
+* Força: A força pode ser definida **por meio do SerializeField do cano do canhão**. Ela é chamada de Fire Force. Define a força do impulso gerado pelo canhão. Medida em **Newtows (N)**.
+* Massa: Se refere ao peso em **Kilos** da bola do canhão. O valor pode ser definido no próprio script ou por meio do SerializeField **da prefab da bola (A opção está na RigidBody2D)**.
+* Velocidade: É baseada no impulso adicionado a bola quando ela é lançada. A fórmula utilizada pela Unity é **V = (F * M) / T**. Medida em **u/s** e transformada em **m/s**.
+* Energia cinética: O próprio texto já explica o que ela faz. É medida em **J**.
+* Energia potencial (Gravitacional): É a energia que um objeto possui devido à sua posição em um campo gravitacional, medida pelo trabalho realizado pelo seu peso para ir de uma posição (mais elevada) à outra (mais abaixo). A fórmula utilizada é **Ep = m * g * h**. Medida em **J**.
+* Altura máxima: Calcula a altura que a bola do canhão irá subir em **metros** antes da gravidade a puxar pra baixo. A fórmula utilizada é **hmax = V² * sin(α * pi / 180)² / (2 * g)**.
+* Tempo de voo: Quanto tempo a bala de canhão vai ficar no ar antes de tocar no chão? Aqui está. A fórmula utilizada é t = **2 × V × sin(α) / 9.8**. Medida em **segundos**.
+
+O canhão pode ser disparado ao pressionar o botão esquerdo do mouse. Toda ação é controlado pela funcão "AddForce(Vector2 force, ForceMode2D mode = ForceMode2D.Force)". A força é especificada com dois componentes separados nas direções X e Y (não há direção Z na física 2D). O objeto será acelerado pela força de acordo com a lei força = massa x aceleração - quanto maior a massa, maior a força necessária para acelerar a uma determinada velocidade. Adicionar um componente Rigidbody a um objeto colocará seu movimento sob o controle do mecanismo de física do Unity. **Por padrão a gravidade da unity é 9.81 (1 no SerializeField)**. 
+
 # Referencias:
 
 * https://en.wikipedia.org/wiki/Kinetic_energy [WEB PAGE]
-* https://www.google.com/search?client=firefox-b-d&q=kinetic+energy [WEB PAGE]
 * https://www.softschools.com/facts/energy/kinetic_energy_facts/394/ [WEB PAGE]
 * https://brasilescola.uol.com.br/fisica/energia-cinetica.htm [WEB PAGE]
 * https://mundoeducacao.uol.com.br/fisica/energia-cinetica.htm [WEB PAGE]
@@ -142,3 +158,5 @@ Nesta simulação do Unity, um canhão acaba de ser disparado e estamos calculan
 * https://www.geeksforgeeks.org/program-to-calculate-kinetic-energy-and-potential-energy/ [WEB PAGE]
 * https://www.seucondominio.com.br/noticias/pequenos-objetos-atirados-pela-janela-podem-matar-seu-condominio [WEB PAGE]
 * https://blog.actionadventure.com.br/2021/12/airsoft-quantos-metros-alcanca-um-tiro/ [WEB PAGE]
+* https://unity.com/pt [WEB PAGE]
+* https://www.aseprite.org/ [WEB PAGE]
